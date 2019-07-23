@@ -1,5 +1,11 @@
 h1{
-  color: blue
+  text-align: center;
+  color: white;
+  background: steelblue;
+  margin: 0;
+  font-weight: normal;
+  text-transform: uppercase;
+  line-height: 1.1;
 }
 
 body{
