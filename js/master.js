@@ -17,4 +17,8 @@ jQuery(document).ready(function(){
 		  clickable: true,
 		}
 	  });
+	  $('#quote-carousel').carousel({
+		pauseOnHover: true,
+		interval: 1000,
+	  });
 });
